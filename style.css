@@ -8,7 +8,21 @@ a {
 	text-decoration: none;
 }
 
+#aesthetic {
+	background-image: url(light_gray_wool.png);
+	width: 1500px;
+	margin-left: auto;
+	margin-right: auto; 
+}
+
 #diamondrecolors {
+	background-image: url(light_gray_wool.png);
+	width: 1500px;
+	margin-left: auto;
+	margin-right: auto; 
+}
+
+#classic {
 	background-image: url(light_gray_wool.png);
 	width: 1500px;
 	margin-left: auto;
