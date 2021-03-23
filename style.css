@@ -1,6 +1,6 @@
 body {
 	background-color: #EEEEEE;
-	background-image: url(light_gray_wool.png);
+	background-image: url(img/light_gray_wool.png);
 	font-family: minecraft;
 }
 
@@ -9,21 +9,21 @@ a {
 }
 
 #aesthetic {
-	background-image: url(light_gray_wool.png);
+	background-image: url(img/light_gray_wool.png);
 	width: 1500px;
 	margin-left: auto;
 	margin-right: auto; 
 }
 
 #diamondrecolors {
-	background-image: url(light_gray_wool.png);
+	background-image: url(img/light_gray_wool.png);
 	width: 1500px;
 	margin-left: auto;
 	margin-right: auto; 
 }
 
 #classic {
-	background-image: url(light_gray_wool.png);
+	background-image: url(img/light_gray_wool.png);
 	width: 1500px;
 	margin-left: auto;
 	margin-right: auto; 
